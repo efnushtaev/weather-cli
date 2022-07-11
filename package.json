@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://",
     "email": "efnushtaev@gmail.com"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
   }
 }
